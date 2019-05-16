@@ -1,6 +1,6 @@
 public class AccountHandler {
 	
-	//Comment Added now - Today
+	//Comment Added now - Today - PartCopy
 	
 	public static Account insertNewAccount(String accountName){
 		
